@@ -1,0 +1,3 @@
+serviceId_title_description
+__label__408030 Zweiwöchentliche Unterhaltsreinigung im Einfamilienhaus   Wir benötigen eine zweiwöchige Unterhaltsreinigung im gesamten Wohnbereich (Staubwischen, Saugen, Nasswischen, Sanitärbereichsreinigung, Bettenbeziehen, etc.). Erledigung der anfallenden Bügelwäsche.
+__label__101120 Morschen Vordachbalken erneuern  8360397 Ein morscher Holz-Stützbalken vom Vordach muß erneuert werden, ggf. das gesamtes Vordach ...
